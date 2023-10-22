@@ -5,15 +5,15 @@ I'm a forward-thinking Full-Stack Web Developer from Saudi Arabia</h3><img src="
 <img src="https://komarev.com/ghpvc/?username=fmashi&label=Profile%20views&color=0e75b6&style=flat" alt="fmashi" /> 
 </p>
 
-- 🔭 I’m currently working on **apps on Django rest framework**
+- 🔭 Currently, I'm immersed in **Django Rest Framework, developing innovative apps**
 
-- 🌱 I’m currently learning **cutting-edge technologies and frameworks**
+- 🌱 I'm actively expanding my knowledge with the **latest technologies and frameworks**
 
-- 👯 I’m looking to collaborate on **exciting projects in web development**
+- 👯 I'm eager to join hands on **thrilling web development projects**
 
-- 💬 Ask me about **Python, Django, React, Docker, and more**
+- 💬 Feel free to inquire about **Python, Django, React, Docker, and more**.
 
-- 📫 How to reach me **Fahadmashi@hotmail.com**
+- 📫 You can reach me at **Fahadmashi@hotmail.com** for any inquiries or collaborations.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
