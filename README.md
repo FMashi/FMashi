@@ -2,7 +2,7 @@
 <h3 align="center">
 I'm a forward-thinking Full-Stack Web Developer from Saudi Arabia</h3>
 <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="fmashi" /> 
-<p align="center">
+<p align="left">
 <img src="https://komarev.com/ghpvc/?username=fmashi&label=Profile%20views&color=0e75b6&style=flat" alt="fmashi" /> 
 </p>
 
