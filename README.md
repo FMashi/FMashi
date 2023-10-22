@@ -35,6 +35,7 @@ I'm a forward-thinking Full-Stack Web Developer from Saudi Arabia</h3><img src="
 [//]: # (<a href="https://www.hackerearth.com/fmashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="f" height="30" width="40" /></a>)
 [//]: # (<a href="https://auth.geeksforgeeks.org/user/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="f" height="30" width="40" /></a>)
 </p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
