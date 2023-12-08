@@ -15,7 +15,6 @@ I'm a forward-thinking Full-Stack Web Developer from Saudi Arabia</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/dev.fmashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="f" height="30" width="40" /></a>
 <a href="https://profile.satr.codes/fahadmashi/public/overview" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1599543612521455616/c4YrkXHp_400x400.jpg" alt="satr" height="30" width="40" /></a>
 <a href="https://codepen.io/fmashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="f" height="30" width="40" /></a>
 <a href="https://dev.to/fmashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="f" height="30" width="40" /></a>
